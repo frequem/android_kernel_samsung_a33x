@@ -27,7 +27,7 @@ list_obj_files_skc = [
     "api.o",
     "cipher.o",
     "compress.o",
-    "memneq.o",
+    "../lib/memneq.o",
     "proc.o",
     "algapi.o",
     "scatterwalk.o",
